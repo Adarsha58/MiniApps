@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=countWordSwing
+comment1.params=
+comment1.target=countWordSwing()
+comment2.params=s
+comment2.target=int\ wordCounter(java.lang.String)
+comment3.params=s
+comment3.target=int\ characterCounter(java.lang.String)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
