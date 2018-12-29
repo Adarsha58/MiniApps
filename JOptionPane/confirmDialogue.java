@@ -3,7 +3,7 @@
  * small application showing the use of JOptionPane
  *
  * @author (Adarsha Poudel)
- * @version (a version number or a date)
+ * @version (1.0)
  */
 import javax.swing.*;  
 import java.awt.event.*;  
