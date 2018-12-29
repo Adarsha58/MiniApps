@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=confirmDialogue
+comment1.params=
+comment1.target=confirmDialogue()
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment2.text=\r\n\ sets\ the\ default\ Close\ Operation\ to\ EXIT_ON_CLOSE\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
